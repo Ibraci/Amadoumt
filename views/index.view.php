@@ -101,7 +101,7 @@
 					
 					<div class="col-xs-12 col-sm-6">
 					<div>
-						<div class="touch"><a class="link" href="#"><i class="fa fa-envelope"></i> GET IN TOUCH</a></div>
+						<div class="touch"><a class="link" href="mailto:changeafrique1@gmail.com"><i class="fa fa-envelope"></i> changeafrique1@gmail.com</a></div>
 					</div>
 					</div>
 					<div class="col-xs-12 col-sm-6">
@@ -627,153 +627,17 @@
 					<div class="col-md-6 col-xs-12 col-lg-7">
 					<div class="subtitle"></div>
 					<h2>Qui est Amadou MT Keita ?</h2>
-          <div style="width: 80%;" class="sad">
-            Née en 1995 à Bamako, la capitale du Mali, Amadou MT KEITA  est diplômé en Licence Professionnelle Communication des Organisations, entrepreneur. Il est l’aîné d’une famille modeste de cinq (5) enfants. Amadou a fait ses études primaires à l’école privée « AECODA », où il obtint son CEP (certificat d’études primaires) en 2006. En octobre de la même année il débuta ses études du second cycle dans la classe de 7ème dans une école fondamentale de Bamako, il réussit son DEF (diplôme d’études fondamentales) en 2009. Il s’est illustré dans le Club UNESCO de son Lycée. Vu les performances du jeune Amadou au lycée, il sera très vite désigné par son établissement à participer à la 11ème  session  du Parlement des Enfants du Mali où il devient membre du Groupe Parlementaire Survie de l’Enfant en mars 2010. Il élargit son champ de connaissances en adhérant à l’Association pour la promotion des Jeunes et Enfants Communicateurs dans la commission radio-audio visuelle en Juillet 2010. Cette adhésion lui a permis de bénéficier des modules de renforcement de capacités  en journalisme et communication. En avril 2011, il a suivi une formation spéciale en Photographie organisée par l’UNICEF. En janvier 2012, après avoir suivi plusieurs modules de formation sur les droits de l’enfant et les techniques de communication, il fera parti d’une équipe de formateur à Mopti pour former des enfants parlementaires sur les mêmes thématiques suivies.
+          <div style="width: 80%; color: #000;" class="blogdata">
+            Née en 1995 à Bamako, la capitale du Mali, Amadou MT KEITA  est diplômé en Licence Professionnelle Communication des Organisations, entrepreneur. Il est l’aîné d’une famille modeste de cinq (5) enfants. Amadou a fait ses études primaires à l’école privée « AECODA », où il obtint son CEP (certificat d’études primaires) en 2006. En octobre de la même année il débuta ses études du second cycle dans la classe de 7ème dans une école fondamentale de Bamako, il réussit son DEF (diplôme d’études fondamentales) en 2009. Il s’est illustré dans le Club UNESCO de son Lycée. Vu les performances du jeune Amadou au lycée, il sera très vite désigné par son établissement à participer à la 11ème  session  du Parlement des Enfants du Mali où il devient membre du Groupe Parlementaire Survie de l’Enfant en mars 2010. Il élargit son champ de connaissances en adhérant à l’Association pour la promotion des Jeunes et Enfants Communicateurs dans la commission radio-audio visuelle en Juillet 2010. Cette adhésion lui a permis de bénéficier des modules de renforcement de capacités  en journalisme et communication. En avril 2011, il a suivi une formation spéciale en Photographie organisée par l’UNICEF. En janvier 2012, après avoir suivi plusieurs modules de formation sur les droits de l’enfant et les techniques de communication, il fera parti d’une équipe de formateur à Mopti pour former des enfants parlementaires sur les mêmes thématiques suivies. <br>
+            Le jeune KEITA a connu une ascension en Septembre 2012 avec son élection en qualité de Secrétaire à l’Organisation du Conseil consultatif national des enfants et jeunes du Mali (CCNEJ). Ce qui lui a valu sa participation au forum régional sur les violences faites aux enfants au Ghana en Aout 2013, organisé par Plan International. En Décembre de la même année, il participe au Model des Nations Unies ténu au Maroc où il a représenté le Mali en compagnie d’autres jeunes maliens. Dès son retour au pays, en accord avec les autres participants maliens au Model des UN, une nouvelle organisation du nom de « Youth For Chilhood » sera créée où il occupera le poste de Secrétaire Général. <br>
+            Entre 2010 et 2013, il assura la maîtrise de cérémonie des activités concernant l’enfance, notamment la SEMAINE NATIONALE DES ENFANTS organisée par la cité des enfants ; la JOURNEE INTERNATIONALE DE L’ENFANT présidée par le Président de la République ; ainsi que la JOURNEE DE L’ENFANT AFRICAIN. <br>
+            Vraisemblablement 2013 fut pour lui une révélation et un succès, il décroche son Baccalauréat malien. <br>
+            Afin d’améliorer ses connaissances et aptitudes, Amadou MT KEITA a effectué des stages pratiques, notamment à l’Agence de communication Star Com en 2014 et à l’ONG Suisse Terre des hommes Lausanne en 2015 puis en 2016. <br>
+            Amadou ne finit jamais de surprendre, en effet il a été invité en tant que consultant en Genre et Egalité Hommes-Femmes à prendre part à l’atelier de renforcement de capacités des jeunes syndicalistes africains de l’enseignement ténu à Dakar en 2016.
           </div>
 					</div>
 					
-					
-					
-					
-					<div class="col-md-6 col-xs-12 col-lg-5 right-content-box" >
-					
-					
-					<div class="col-xs-12 col-sm-5 right-content-inner">
-						<div class="right-content-table">
-							<div class="right-content-table-cell">
-								<div class="cent">MY LOGO DESIGNS</div>
-								<div class="sad">We believe that interfaces should be simple and easy enough to use and navigate for the least tech oriented people</div>
-							</div>
-						</div>
-					</div>
-					
-					
-					<div class="col-sm-offset-5  col-xs-12 col-sm-7">
-					<br/><br/>
-					<img class="cource-image" alt="Mak Boox" src="images/camera.png">
-					
-					</div>
-					
-					
-					
-					
-					
-					</div>
 					<div class="divider30">&nbsp;</div>
-
-					<div class="skill-scroll">
-    <div id="skills-slider" class="col-md-12">
-              
-      <div class="item">
-	  <div class="sa5a">
-						
-						<div class="col-md-12 col-xs-12 col-lg-5 boximage">
-							<img class="about-images" alt="book" src="images/makbook.png">
-						</div>
-						
-						<div class="col-md-12 col-xs-12 col-lg-7">
-							<div class="cent">BRANDING</div>
-							<div class="sad">We believe that interfaces should be simple and easy enough to use and navigate for the least tech oriented people</div>
-						</div>
-						
-		</div>
-	  </div>
-	  <div class="item">
-	  <div class="sa5a">
-						
-						<div class="col-md-12 col-xs-12 col-lg-5 boximage">
-							<img class="about-images" alt="book" src="images/books.png">
-						</div>
-						
-						<div class="col-md-12 col-xs-12 col-lg-7">
-							<div class="cent">SKETCHING</div>
-							<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
-						</div>
-						
-		</div>
-	  </div>
-      
-      <div class="item">
-	  <div class="sa5a">
-	  	<div class="col-md-12 col-xs-12 col-lg-5 boximage">
-							<img class="about-images" alt="book" src="images/baklogo.png">
-						</div>
-						
-						<div class="col-md-12 col-xs-12 col-lg-7">
-							<div class="cent">LOGO DESIGN</div>
-							<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
-						</div>
-	  </div>
-	  </div>
-	  
-	  <div class="item">
-	  <div class="sa5a">
-	  	<div class="col-md-12 col-xs-12 col-lg-5 boximage">
-							<img class="about-images" alt="book" src="images/bear.png">
-						</div>
-						
-						<div class="col-md-12 col-xs-12 col-lg-7">
-							<div class="cent">TYPOGRAPHY</div>
-							<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
-						</div>
-	  </div>
-	  </div>
-       <div class="item">
-	  <div class="sa5a">
-						
-						<div class="col-md-12 col-xs-12 col-lg-5 boximage">
-							<img class="about-images" alt="book" src="images/makbook.png">
-						</div>
-						
-						<div class="col-md-12 col-xs-12 col-lg-7">
-							<div class="cent">ART DIRECTION </div>
-							<div class="sad">We believe that interfaces should be simple and easy enough to use and navigate for the least tech oriented people</div>
-						</div>
-						
-		</div>
-	  </div>
-	  <div class="item">
-	  <div class="sa5a">
-						
-						<div class="col-md-12 col-xs-12 col-lg-5 boximage">
-							<img class="about-images" alt="book" src="images/books1.png">
-						</div>
-						
-						<div class="col-md-12 col-xs-12 col-lg-7">
-							<div class="cent">PHOTO ADVERTISING</div>
-							<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
-						</div>
-						
-		</div>
-	  </div>
-      
-      <div class="item">
-	  <div class="sa5a">
-	  	<div class="col-md-12 col-xs-12 col-lg-5 boximage">
-							<img class="about-images" alt="book" src="images/baklogo.png">
-						</div>
-						
-						<div class="col-md-12 col-xs-12 col-lg-7">
-							<div class="cent">PHOTO EDITING</div>
-							<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
-						</div>
-	  </div>
-	  </div>
-	  
-	  <div class="item">
-	  <div class="sa5a">
-	  	<div class="col-md-12 col-xs-12 col-lg-5 boximage">
-							<img class="about-images" alt="book" src="images/bear.png">
-						</div>
-						
-						<div class="col-md-12 col-xs-12 col-lg-7">
-							<div class="cent">PHOTO ADVERTISING</div>
-							<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
-						</div>
-	  </div>
-	  </div>
-     
-    </div>
 	</div>
 	
 	<div class="skill-fix">
@@ -856,7 +720,7 @@
 				<div class="divider30">&nbsp;</div>
 					<div class="col-xs-12 col-sm-6">
 					<div>
-						<div class="touch"><a class="link" href="#"><i class="fa fa-envelope"></i> GET IN TOUCH</a></div>
+						<div class="touch"><a class="link" href="mailto:changeafrique1@gmail.com"><i class="fa fa-envelope"></i> changeafrique1@gmail.com</a></div>
 					</div>
 					</div>
 				
@@ -993,7 +857,7 @@
 					<div class="divider30">&nbsp;</div>
 					<div class="col-xs-12 col-sm-6">
 					<div>
-						<div class="touch"><a class="link" href="#"><i class="fa fa-envelope"></i> GET IN TOUCH</a></div>
+						<div class="touch"><a class="link" href="mailto:changeafrique1@gmail.com"><i class="fa fa-envelope"></i> changeafrique1@gmail.com</a></div>
 					</div>
 					</div>
 				
@@ -1042,51 +906,51 @@
 								
 									<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 											
-											<div class="subtitle codeskillicon navy-blue"><img alt="green icon" src="images/red-icon.png">   Animation skills</div>
+											<div class="subtitle codeskillicon navy-blue"><img alt="green icon" src="images/red-icon.png">   Competences en graphisme</div>
 										
 											<div class="circle-responsive color-DB872D">
 												<div class="circle-content">
-													<i>Photoshop</i><br/><b>100%</b>
+													<i>Dreamweaver</i><br/>
 												</div>
 											</div>
 										
 											
 											<div class="circle-responsive color-DE6F7F">
 												<div class="circle-content" class="circlepad">
-													<i>VStudio</i><br/><b>85%</b>
+													<i>Illustrator</i><br/>
 												</div>
 											</div>
 											<div class="circle-responsive color-65AC50">
 												<div class="circle-content" class="circlepad">
-													<i>illustrator</i><br/><b>90%</b>
+													<i>Photoshop</i><br/>
 												</div>
 											</div>
 											<div class="circle-responsive color-DD56F1">
 												<div class="circle-content" class="circlepad">
-													<i>Sketching</i><br/><b>95%</b>
+													<i>InDesign</i><br/>
 												</div>
 											</div>
 										</div>
 										
 										<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 											
-											<div class="subtitle codeskillicon navy-blue"><img alt="green icon" src="images/red-icon.png">   Character Design skills</div>
+											<div class="subtitle codeskillicon navy-blue"><img alt="green icon" src="images/red-icon.png">   Langues</div>
 										
 											<div class="circle-responsive color-DB872D">
 												<div class="circle-content">
-													<b>FIREWORKS</b>
+													<b>FRANCAIS</b>
 												</div>
 											</div>
 										
 											
 											<div class="circle-responsive color-DE6F7F">
 												<div class="circle-content" class="circlepad">
-													<b>PHOTOSHOP</b>
+													<b>ANGLAIS</b>
 												</div>
 											</div>
 											<div class="circle-responsive color-65AC50">
 												<div class="circle-content" class="circlepad">
-													<b>ILLUSTATOR</b>
+													<b>BAMBARA</b>
 												</div>
 											</div>
 											
@@ -1107,41 +971,21 @@
 									<div class="subtitle navy-blue">EDUCATION</div>
 									
 										<div class="col-sm-6 col-md-3 nopadding-left">
-										<div class="subtitle dateformate">2002</div>
+										<div class="subtitle dateformate">2012 - 2013</div>
 										<img alt="green icon" src="images/green-icon.png">
 										<div class="education-line"></div>
-										<div class="subtitle">ATOM SCIENCE</div>
-										<div class="resume-title resume-meta">STANFORD UNIVERSITY</div>
-										<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
+										<div class="subtitle">Baccalauréat Malien</div>
+										<div class="resume-title resume-meta">Lycée Kankou Moussa de Daoudabougou</div>
+										<div class="sad">En Sciences Humaines</div>
 										</div>
 										
 										<div class="col-sm-6 col-md-3 no-pad-xs">
-										<div class="subtitle dateformate">2006</div>
+										<div class="subtitle dateformate">2015 - 2016</div>
 										<img alt="green icon" src="images/green-icon.png">
 										<div class="education-line"></div>
-										<div class="subtitle">SOFTWARE ENGINEER</div>
-										<div class="resume-title resume-meta">USC</div>
-										<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
-										</div>
-										
-										<div class="col-sm-6 col-md-3 no-pad no-pad-xs">
-										<div class="subtitle dateformate">2010</div>
-										<img alt="green icon" src="images/green-icon.png">
-										<div class="education-line"></div>
-										<div class="subtitle">COMPUTER SCIENCE</div>
-										<div class="resume-title resume-meta">BERKELY</div>
-										<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
-										</div>
-										
-										<div class="col-sm-6 col-md-3 no-pad-xs yearstyle">
-										<div class="subtitle dateformate">2012</div>
-										<div class="border-right">
-											<img alt="green icon" src="images/green-icon.png">
-											<div class="education-line"></div>
-										</div>
-										<div class="subtitle">MASTERS</div>
-										<div class="resume-title resume-meta">CAL POLY</div>
-										<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
+										<div class="subtitle">Licence Professionnelle</div>
+										<div class="resume-title resume-meta">Institut Universitaire de Technologie (IUT) de Bamako</div>
+										<div class="sad">En Communication des Organisations</div>
 										</div>
 									</div>
 								</div>
@@ -1150,7 +994,7 @@
 										
 										<div class="edu-info col-md-12 col-lg-9 nopadding-left">
 																				
-											<div class="subtitle navy-blue">WORK HISTROY</div>
+											<div class="subtitle navy-blue">EXPERIENCES PROFESSIONNELLES</div>
 											
 											<div class="col-sm-4 no-pad-xs nopadding-left">
 											<div class="subtitle dateformate">2006</div>
@@ -1184,13 +1028,13 @@
 										
 																		
 										<div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 boximage">
+
 											<br/><br/><br/>
-											<img src="images/resume.png" alt="file icone">
-											
+              				<img src="images/resume.png" alt="file icone">
 											<div class="resume-download-button">
 											
-												<div class="resume-title"><a href="#">DOWNLOAD RESUME</a></div>
-												<div class="resume-title resume-meta">CSV FILE</div>
+												<div class="resume-title"><a href="amadoumtcv.docx">Telecharger mon CV</a></div>
+												<div class="resume-title resume-meta"></div>
 											</div>
 										</div>
 										
@@ -1201,7 +1045,7 @@
 								
 								<div class="divider30">&nbsp;</div>
 								<div class="col-xs-12 col-sm-6">
-								<div class="touch"><a class="link" href="#"><i class="fa fa-envelope"></i> GET IN TOUCH</a></div>
+								<div class="touch"><a class="link" href="mailto:changeafrique1@gmail.com"><i class="fa fa-envelope"></i> changeafrique1@gmail.com</a></div>
 								</div>
 								<div class="col-xs-12 col-sm-6">
 								<div>
