@@ -47,13 +47,12 @@
             <h1 class="logo">
                 <a href="index.php">Amadou MT Keita</a></h1>
             <div class="socialmedia">
-                <ul>
-                    <li><a href="#" class="behence">Behance</a></li>
-                    <li><a href="#" class="pinterest">Pinterest</a></li>
-                    <li><a href="#" class="linkedin">Linkedin</a></li>
-                    <li><a href="#" class="dribble">Dribble</a></li>
-                    <li><a href="#" class="twitter">Twitter</a></li>
-                    <li><a href="#" class="facebook">Facebook</a></li>
+                <ul class="social_links">
+                  <li class="facebook"><a href="https://www.facebook.com/amadoumt.keita"><i class="fa fa-facebook"></i></a></li>
+                  <li class="twitter"><a href="https://twitter.com/amadou_mt"><i class="fa fa-twitter"></i></a></li>
+                  <li class="gplus"><a href="https://plus.google.com/102141556602090881599"><i class="fa fa-google-plus"></i></a></li> 
+                  <li class="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                  <li class="instagram"><a href="https://www.instagram.com/amadoumt/"><i class="fa fa-instagram"></i></a></li>
                 </ul>
             </div>
             <a class="mobilemenu">View Menu</a>
@@ -62,7 +61,7 @@
                     <li><a href="#" onclick="landingpagecube();">ACCEUIL</a></li>
                     <li><a href="#" onclick="aboutcube();">A PROPOS</a></li>
                     <li><a href="#" onclick="teamcube();">RESUME</a></li>
-                    <li><a href="#" onclick="thumbnailscube();">PORTFOLIO</a></li>
+                    <li><a href="#" onclick="thumbnailscube();">GALERIE</a></li>
                     <li><a href="#" onclick="blogcube()">BLOG</a></li>
                     <li><a href="#" onclick="contactcube();">CONTACT</a></li>
                 </ul>
@@ -73,7 +72,7 @@
                 <li><a href="#" onclick="landingpagecube();">ACCUEIL</a></li>
                 <li><a href="#" onclick="aboutcube();">A PROPOS</a></li>
                 <li><a href="#" onclick="teamcube();">RESUME</a></li>
-                <li><a href="#" onclick="thumbnailscube();">PORTFOLIO</a></li>
+                <li><a href="#" onclick="thumbnailscube();">GALERIE</a></li>
                 <li><a href="#" onclick="blogcube()">BLOG</a></li>
                 <li><a href="#" onclick="contactcube();">CONTACT</a></li>
             </ul>
@@ -102,15 +101,6 @@
 					<div class="col-xs-12 col-sm-6">
 					<div>
 						<div class="touch"><a class="link" href="mailto:changeafrique1@gmail.com"><i class="fa fa-envelope"></i> changeafrique1@gmail.com</a></div>
-					</div>
-					</div>
-					<div class="col-xs-12 col-sm-6">
-					<div>
-						<ul class="socialpost">
-							<li class="nomargin-right"><a href="#" class=""><i class="fa fa-google"></i></a></li>
-							<li><a href="#" class=""><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#" class=""><i class="fa fa-behance"></i></a></li>
-						</ul>
 					</div>
 					</div>
 					<div class="divider30">&nbsp;</div>
@@ -723,16 +713,7 @@
 						<div class="touch"><a class="link" href="mailto:changeafrique1@gmail.com"><i class="fa fa-envelope"></i> changeafrique1@gmail.com</a></div>
 					</div>
 					</div>
-				
-					<div class="col-xs-12 col-sm-6">
-					<div>
-						<ul class="socialpost">
-							<li class="nomargin-right"><a href="#" class=""><i class="fa fa-google"></i></a></li>
-							<li><a href="#" class=""><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#" class=""><i class="fa fa-behance"></i></a></li>
-						</ul>
-					</div>
-					</div>
+
 					<div class="clear"></div>
 			  
             </div>
@@ -753,8 +734,8 @@
 				
 				
 					<div class="col-md-6 col-xs-12 col-lg-7">
-					<div class="subtitle">Contact US</div>
-					<h2>Give me a shout out<br/>& I will make you<br/>a believer.</h2>
+					<div class="subtitle"></div>
+					<h2>Contact</h2>
 					</div>
 					<div class="col-md-6 col-xs-12 col-lg-5 right-content-box" >
 					
@@ -767,93 +748,41 @@
 					
 						<div class="col-xs-12 col-md-6 col-sm-6 col-lg-3">
 						<div class="contact-info">
-							<div class="contact-cap">A</div>
+							<div class="subtitle">Adresse</div>
 							<div class="contact-main">
-							1270 Tiegen Dr,<br/>
-							San Francisco<br/>
-							Calif. 94541
-							</div>
-							<div class="contact-sub">
-							LOCATE ON MAP
+							Badalabougou,<br/>
+							Rue : 135, Porte : 115<br/>
+							Bamako, Mali
 							</div>
 						</div>
 						</div>
 						
 						<div class="col-xs-12 col-md-6 col-sm-6 col-lg-3">
 						<div class="contact-info">
-							<div class="contact-cap">P</div>
+							<div class="subtitle">Contact</div>
 							<div class="contact-main">
-							+1 234 5678 901<br/>
-							+1 234 5678 920<br/>
-							F: +1 245 789865
-							</div>
-							<div class="contact-sub">
-							MORE NUMBERS
+							+223 78 70 33 24<br/>
+							changeafrique1@gmail.com
 							</div>
 						</div>
 						</div>
-						
+
 						<div class="col-xs-12 col-md-6 col-sm-6 col-lg-3">
 						<div class="contact-info">
-						<div class="contact-cap">E</div>
-							<div class="contact-main">
-							hello@themeify.com<br/>
-							sales@themeify.com<br/>
-							careers@themeify.com
-							</div>
-							<div class="contact-sub">
-							OR USE OUR FORM BELOW
-							</div>
-						</div>
-						</div>
-						
-						<div class="col-xs-12 col-md-6 col-sm-6 col-lg-3">
-						<div class="contact-info">
-						<div class="contact-cap">S</div>
+						<div class="subtitle">Reseaux Sociaux</div>
 						<div class="contact-main">
-							<ul class="socialpost">
-								<li><a href="#" class=""><i class="fa fa-dribbble"></i></a></li>
-								<li><a href="#" class=""><i class="fa fa-google"></i></a></li>
-								<li><a href="#" class=""><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" class=""><i class="fa fa-behance"></i></a></li>
-							</ul>
-							<ul class="socialpost">
-								<li><a href="#" class=""><i class="fa fa-linkedin"></i></a></li>
-								<li><a href="#" class=""><i class="fa fa-facebook-f"></i></a></li>
-								<li><a href="#" class=""><i class="fa fa-pinterest"></i></a></li>
-								
-							</ul>
+							<ul class="social_links">
+                <li class="facebook"><a href="https://www.facebook.com/amadoumt.keita" class="fa fa-facebook"></a></li>
+                <li class="twitter"><a href="https://twitter.com/amadou_mt" class="fa fa-twitter"></a></li>
+                <li class="gplus"><a href="https://plus.google.com/102141556602090881599" class="fa fa-google-plus"></a></li> 
+                <li class="linkedin"><a href="#" class="fa fa-linkedin"></a></li>
+                <li class="instagram"><a href="https://www.instagram.com/amadoumt/" class="fa fa-instagram"></a></li>
+              </ul>
 						</div>
 						</div>
 						</div>
 					</div>
-              
-			  <div class="divider30">&nbsp;</div>
-			  <div class="col-md-9 col-centered">
-			  <div class="reply-sec">
-                <div class="contactform">
-                  <div class="lft">
-                    <div>
-                      <input type="text" placeholder="Enter your name">
-                    </div>
-                    <div>
-                      <input type="text" placeholder="Enter your email">
-                    </div>
-                    <div>
-                      <input type="text" placeholder="Subject (Optional)">
-                    </div>
-                  </div>
-                  <div class="rgt">
-                    <textarea rows="4" cols="8" name="comments" placeholder="Here goes your message..."></textarea>
-                  </div>
-                  <div class="submit">
-                    <input type="submit" value="SEND MESSAGE">
-                  </div>
-                </div>
-              </div>
-			  </div>
-			  
-			  
+                
 					<div class="divider30">&nbsp;</div>
 					<div class="col-xs-12 col-sm-6">
 					<div>
@@ -861,17 +790,7 @@
 					</div>
 					</div>
 				
-					<div class="col-xs-12 col-sm-6">
-					<div>
-						<ul class="socialpost">
-							<li class="nomargin-right"><a href="#" class=""><i class="fa fa-google"></i></a></li>
-							<li><a href="#" class=""><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#" class=""><i class="fa fa-behance"></i></a></li>
-						</ul>
-					</div>
-					</div>
-					<div class="divider30">&nbsp;</div>
-					<div class="clear"></div>
+				<div class="clear"></div>
 					
             </div>
           </div>
@@ -891,15 +810,7 @@
 								
 							
 								<div class="col-xs-12 col-md-8 col-lg-6">
-									<div class="subtitle">RESUME</div>									
-									<h2>Designing high quality UI/UX experiences </h2>
-									
-								<div class="col-md-12 col-lg-9 no-pad-home">	
-									<div class="resume-taglin">
-									"Through brand strategy and design, we craft experiences that help brands stand out as well as stand for something"
-									</div>
-								</div>
-									
+									<h2>RESUME</h2>
 								</div>
 	
 								<div class="col-xs-12 col-md-12 col-lg-6">
@@ -968,24 +879,24 @@
 								
 									<div class="edu-info">
 									
-									<div class="subtitle navy-blue">EDUCATION</div>
+									   <div class="subtitle navy-blue">EDUCATION</div>
 									
 										<div class="col-sm-6 col-md-3 nopadding-left">
-										<div class="subtitle dateformate">2012 - 2013</div>
-										<img alt="green icon" src="images/green-icon.png">
-										<div class="education-line"></div>
-										<div class="subtitle">Baccalauréat Malien</div>
-										<div class="resume-title resume-meta">Lycée Kankou Moussa de Daoudabougou</div>
-										<div class="sad">En Sciences Humaines</div>
+  										<div class="subtitle dateformate">2012 - 2013</div>
+  										<img alt="green icon" src="images/green-icon.png">
+  										<div class="education-line"></div>
+  										<div class="subtitle">Baccalauréat Malien</div>
+  										<div class="resume-title resume-meta">Lycée Kankou Moussa de Daoudabougou</div>
+  										<div class="sad">En Sciences Humaines</div>
 										</div>
 										
 										<div class="col-sm-6 col-md-3 no-pad-xs">
-										<div class="subtitle dateformate">2015 - 2016</div>
-										<img alt="green icon" src="images/green-icon.png">
-										<div class="education-line"></div>
-										<div class="subtitle">Licence Professionnelle</div>
-										<div class="resume-title resume-meta">Institut Universitaire de Technologie (IUT) de Bamako</div>
-										<div class="sad">En Communication des Organisations</div>
+  										<div class="subtitle dateformate">2015 - 2016</div>
+  										<img alt="green icon" src="images/green-icon.png">
+  										<div class="education-line"></div>
+  										<div class="subtitle">Licence Professionnelle</div>
+  										<div class="resume-title resume-meta">Institut Universitaire de Technologie (IUT) de Bamako</div>
+  										<div class="sad">En Communication des Organisations</div>
 										</div>
 									</div>
 								</div>
@@ -997,34 +908,52 @@
 											<div class="subtitle navy-blue">EXPERIENCES PROFESSIONNELLES</div>
 											
 											<div class="col-sm-4 no-pad-xs nopadding-left">
-											<div class="subtitle dateformate">2006</div>
-											<img alt="green icon" src="images/blue-icon.png">
-											<div class="education-line"></div>
-											<div class="subtitle">EXCLUSIVE  AUTHOR</div>
-											<div class="resume-title resume-meta">ENVATO  INC.</div>
-											<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
+  											<div class="subtitle dateformate">Juillet - Septembre 2016</div>
+  											<img alt="green icon" src="images/blue-icon.png">
+  											<div class="education-line"></div>
+  											<div class="subtitle">Stagiaire en Communication & Plaidoyer</div>
+  											<div class="resume-title resume-meta">Terre des hommes Lausanne à Bamako</div>
+  											<div class="sad"></div>
 											</div>
 											
 											<div class="col-sm-4 no-pad-xs">
-											<div class="subtitle dateformate">2008 - 2010</div>
-											<img alt="green icon" src="images/blue-icon.png">
-											<div class="education-line"></div>
-											<div class="subtitle">WEB DEVELOPER</div>
-											<div class="resume-title resume-meta">GOOGLE, INC.</div>
-											<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
+  											<div class="subtitle dateformate">Juillet - Aout 2015</div>
+  											<img alt="green icon" src="images/blue-icon.png">
+  											<div class="education-line"></div>
+  											<div class="subtitle">Stagiaire en Communication</div>
+  											<div class="resume-title resume-meta">Terre des hommes Lausanne à Bamako</div>
+  											<div class="sad"></div>
 											</div>
 											
-											<div class="col-sm-4 no-pad-xs yearstyle">
-											<div class="subtitle dateformate">2010 - 2015</div>
-											<div class="border-right">
-												<img alt="green icon" src="images/blue-icon.png">
-												<div class="education-line"></div>
-											</div>
-											<div class="subtitle">FRONT END WEB DEVELOPER</div>
-											<div class="resume-title resume-meta">THEMEIFY</div>
-											<div class="sad">The results are beautiful when we do not rush through details and you understand that coolness is not an overnight thing</div>
+											<div class="col-sm-4 no-pad-xs">
+  											<div class="subtitle dateformate">Août - Octobre 2014</div>
+  											<div class="border-right">
+  												<img alt="green icon" src="images/blue-icon.png">
+  												<div class="education-line"></div>
+  											</div>
+  											<div class="subtitle">Stagiaire en Communication</div>
+  											<div class="resume-title resume-meta">Agence de Communication STAR-COM</div>
+  											<div class="sad"></div>
 											</div>
 										</div>
+
+                    <div class="col-sm-4 no-pad-xs">
+                      <div class="subtitle dateformate">Depuis 2010</div>
+                      <img alt="green icon" src="images/blue-icon.png">
+                      <div class="education-line"></div>
+                      <div class="subtitle">Membre Actif/div>
+                      <div class="resume-title resume-meta">Action pour la Promotion des Jeunes et Enfants Communicateurs (APJEC)</div>
+                      <div class="sad"></div>
+                    </div>
+
+                    <div class="col-sm-4 no-pad-xs yearstyle">
+                      <div class="subtitle dateformate">Décembre 2012 - Décembre 2013</div>
+                      <img alt="green icon" src="images/blue-icon.png">
+                      <div class="education-line"></div>
+                      <div class="subtitle">Vice-Président</div>
+                      <div class="resume-title resume-meta">Parlement des Enfants du Mali</div>
+                      <div class="sad"></div>
+                    </div>
 										
 																		
 										<div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 boximage">
@@ -1037,8 +966,6 @@
 												<div class="resume-title resume-meta"></div>
 											</div>
 										</div>
-										
-									
 									
 									
 								</div>
@@ -1046,15 +973,6 @@
 								<div class="divider30">&nbsp;</div>
 								<div class="col-xs-12 col-sm-6">
 								<div class="touch"><a class="link" href="mailto:changeafrique1@gmail.com"><i class="fa fa-envelope"></i> changeafrique1@gmail.com</a></div>
-								</div>
-								<div class="col-xs-12 col-sm-6">
-								<div>
-								<ul class="socialpost">
-								<li class="nomargin-right"><a href="#" class=""><i class="fa fa-google"></i></a></li>
-								<li><a href="#" class=""><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" class=""><i class="fa fa-behance"></i></a></li>
-								</ul>
-								</div>
 								</div>
 								
 								<div class="clear"></div>
