@@ -1,7 +1,7 @@
 <?php
 	
 	$host = "localhost";
-	$database = "amadoumt";
+	$database = "Amadoumt";
 	$user = "root";
 	$password = "root";
 	// Database credentials

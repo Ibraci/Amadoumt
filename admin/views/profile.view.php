@@ -1,5 +1,5 @@
 <?php 
-	$title = "Ajouter un article";
+	$title = "Profil";
 	include('partials/_header.php'); ?>
 
 <?php include('partials/_footer.php'); ?>
