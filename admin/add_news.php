@@ -1,18 +1,23 @@
 <?php 
-
 	require('../config/database.php');
-	if (isset($_POST['envoyer'])) {
-		if (!empty($_POST['titre']) && !empty($_POST['chapo']) !empty($_POST['contenu'])) {
-			# code...
+
+
+	if (isset($_POST['titre']) AND isset($_POST['chapo']) AND isset($_POST['contenu'])) {
+		if (!empty($_POST['titre']) && !empty($_POST['chapo']) && !empty($_POST['contenu'])) {
+			$titre = htmlspecialchars($_POST['titre']);
+			$chapo = htmlspecialchars($_POST['chapo']);
+			$contenu = htmlspecialchars($_POST['contenu']);
+
+			$req = $db->prepare('INSERT INTO  blog(titre, chapo, contenu, date_publication) VALUES(?, ?, ?, NOW())');
+			$req->execute(array($titre, $chapo, $contenu));
+
+			$success = 'Votre article a ete poste avec succes !';
+		} else {
+			$errors = 'Veuillez remplir tous les champs !';
 		}
 	}
     
 
-    require('views/add_news.view.php');
+?>  
 
-
-  //   $req = $db->prepare('INSERT INTO blog(titre, chapo, contenu) VALUES (?, ?, ?)');
-		// $req->execute(array(
-		// 	$_POST['titre'],
-		// 	$_POST['chapo'],
-		// 	$_POST['contenu']));
+<?php require('views/add_news.view.php'); ?>
