@@ -31,7 +31,7 @@
 
 <aside class="app-sidebar" id="sidebar">
   <div class="sidebar-header">
-    <a class="sidebar-brand" href="#"><span class="highlight">Adsky</span> Admin</a>
+    <a class="sidebar-brand" href="#"><span class="highlight">Adusky</span> Admin</a>
     <button type="button" class="sidebar-toggle">
       <i class="fa fa-times"></i>
     </button>
